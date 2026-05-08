@@ -1,5 +1,9 @@
 # pybulletによるミニゲーム（2024.11）
 
+## デモ動画（URL）
+https://youtu.be/63qpb3iglvA
+https://youtu.be/GCw3Y-gBGVs
+
 ## 概要
 
 BotW.py(ブレスオブザワイルドのミニゲームの再現)とrandommaze.py(迷路がランダム生成されるバージョン)の説明。
